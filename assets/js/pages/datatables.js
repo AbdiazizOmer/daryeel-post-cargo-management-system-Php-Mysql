@@ -1,0 +1,1 @@
+let jquery_datatable = $("#table3").DataTable();
