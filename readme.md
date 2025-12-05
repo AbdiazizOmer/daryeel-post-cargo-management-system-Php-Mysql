@@ -54,42 +54,7 @@ The application is structured into distinct, powerful modules accessible via the
 Here is a visual representation of the main dashboard:
 ![alt text](dashboard.png)
 
-## 💻 Installation and Setup
-
-(Add specific instructions here on how to set up your project. For example:)
-
-### Clone the repository:
-
-```bash
-git clone [Your Repository URL]
 ```
-
-### Install dependencies:
-
-```bash
-cd daryeel-cargo-system
-
-npm install
-
-# or composer install (depending on your tech stack)
-```
-
-### Configure environment:
-
-Create a `.env` file and set your database credentials.
-
-### Run Migrations:
-
-```bash
-php artisan migrate
-```
-
-### Start the server:
-
-```bash
-php artisan serve
-```
-
 ## 📜 License
 
 This project is **free** and open-source. It is licensed under the MIT License
